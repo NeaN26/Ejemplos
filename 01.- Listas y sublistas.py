@@ -1,4 +1,4 @@
-# Estructuras de datos por listas
+# Estructuras de datos por listas.
 
 cursos = ["Python", "django", "flask", "c", "c++", "c#", "java", "php"]
 
