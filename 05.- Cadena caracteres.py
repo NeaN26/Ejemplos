@@ -1,7 +1,6 @@
 lenguajes = "Python; Java; Ruby; Swift; JavaScript; C#; C; C++"
 
 #Separar cadena por espacio
-
 resultado = lenguajes.split()
 print(resultado)
 
@@ -29,5 +28,7 @@ chao
 
 felicidad.
 """
+
+# Crea lista con saltos de lìneas.
 resultado4 = texto.splitlines()
 print(resultado4)
