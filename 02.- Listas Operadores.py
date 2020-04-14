@@ -42,3 +42,22 @@ print(indice)
 # si no se encuentra en la lista, devuelve 0.
 contador = lista.count(90)
 print(contador)
+
+"""
+métodos
+lista.count()
+lista.append
+.insert
+.remove
+.index
+clear
+sort.
+"""
+"""
+funciones
+max
+
+min
+len
+print
+"""

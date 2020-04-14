@@ -1,4 +1,11 @@
+fila_uno = [10,20]
+fila_dos = [30,40]
 
-print("matrix")
+matriz = [fila_uno, fila_dos]
 
-print("v2")
+print(matriz)
+
+# mostrar primer elemento.
+
+primer_elemento = matriz [0][0]
+print(primer_elemento)
